@@ -1,0 +1,5 @@
+rule of project
+1. xxx
+2. xxxx
+3. xxxxx
+
